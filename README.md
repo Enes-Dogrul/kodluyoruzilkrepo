@@ -1,6 +1,6 @@
 # **Kodluyoruz Ilk Repo**
 -------------------------------------
-Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor. 
+Bu repo [Kodluyoruz](kodluyoruz.org) Swift Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor. 
 ## **Installation**
 ----------------------------------------
 Link: https://github.com/Enes-Dogrul/kodluyoruzilkrepo.git 
